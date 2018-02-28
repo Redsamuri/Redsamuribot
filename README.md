@@ -1,2 +1,1 @@
 # Redsamuribot
-AsulBot
